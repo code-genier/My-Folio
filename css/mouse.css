@@ -1,0 +1,36 @@
+.mouse-circle {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  /* border: 7px solid #fee715ff; */
+  background: #fff;
+  border-radius: 50%;
+  pointer-events: none;
+  transition: 0.1s ease;
+  z-index: 20000;
+}
+
+#mouse-circle1 {
+  border: 8px solid #fff;
+}
+#mouse-circle2 {
+  border: 7px solid #fff;
+}
+#mouse-circle3 {
+  border: 6px solid #fff;
+}
+#mouse-circle4 {
+  border: 5px solid #fff;
+}
+#mouse-circle5 {
+  border: 4px solid #fff;
+}
+#mouse-circle6 {
+  border: 3px solid #fff;
+}
+#mouse-circle7 {
+  border: 2px solid #fff;
+}
+#mouse-circle8 {
+  border: 0px solid #fff;
+}
